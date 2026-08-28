@@ -1,3 +1,15 @@
 body {
     background-color: deepskyblue
 }
+h1 {
+    text-align: center
+}
+ul {
+    font-size: 18px
+}
+ul li:nth-child(10) {
+    font-weight: bold
+}
+ul li:nth-child(7) {
+    color: forestgreen
+}
