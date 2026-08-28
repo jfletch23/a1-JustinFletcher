@@ -25,7 +25,7 @@ img {
     width: 50%;
     height: 50%;
 }
-ul {
+ul, p {
     font-size: 18px
 }
 ul li:nth-child(10) {
@@ -33,4 +33,9 @@ ul li:nth-child(10) {
 }
 ul li:nth-child(7) {
     color: forestgreen
+}
+th, td {
+    padding: 5px 10px;
+    border: 3px solid black;
+    font-size: 18px
 }
