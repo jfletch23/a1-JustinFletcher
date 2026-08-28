@@ -1,5 +1,6 @@
 body {
-    background-color: deepskyblue
+    background-color: deepskyblue;
+    font-family: Merriweather, sans-serif
 }
 .horizontal-list {
     padding-left: 0;
