@@ -1,6 +1,21 @@
 body {
     background-color: deepskyblue
 }
+.horizontal-list {
+    padding-left: 0;
+    font-size: x-large
+}
+.horizontal-list li {
+    display: inline;
+    margin: 0 5px;
+}
+nav {
+    border: 2px solid black;
+    border-radius:25px;
+    width: fit-content;
+    background: rgb(242, 163, 5);
+    margin-inline: auto;
+}
 h1 {
     text-align: center
 }
